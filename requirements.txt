@@ -1,0 +1,9 @@
+streamlit
+mistralai
+pdfplumber
+python-docx
+torch
+transformers
+faiss-cpu
+python-dotenv
+ollama
